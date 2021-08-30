@@ -1,6 +1,7 @@
 # team20
 
 MSIS
+AnthonyFriedman
 divyangmodi-7
-yajasc
 jkrieps
+yajasc
